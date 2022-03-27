@@ -1,0 +1,15 @@
+D:\Dev\BACKEND\C#\LambdaCs10\LambdaCs10\bin\Debug\net6.0\LambdaCs10.exe
+D:\Dev\BACKEND\C#\LambdaCs10\LambdaCs10\bin\Debug\net6.0\LambdaCs10.deps.json
+D:\Dev\BACKEND\C#\LambdaCs10\LambdaCs10\bin\Debug\net6.0\LambdaCs10.runtimeconfig.json
+D:\Dev\BACKEND\C#\LambdaCs10\LambdaCs10\bin\Debug\net6.0\LambdaCs10.dll
+D:\Dev\BACKEND\C#\LambdaCs10\LambdaCs10\bin\Debug\net6.0\LambdaCs10.pdb
+D:\Dev\BACKEND\C#\LambdaCs10\LambdaCs10\obj\Debug\net6.0\LambdaCs10.csproj.AssemblyReference.cache
+D:\Dev\BACKEND\C#\LambdaCs10\LambdaCs10\obj\Debug\net6.0\LambdaCs10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\BACKEND\C#\LambdaCs10\LambdaCs10\obj\Debug\net6.0\LambdaCs10.AssemblyInfoInputs.cache
+D:\Dev\BACKEND\C#\LambdaCs10\LambdaCs10\obj\Debug\net6.0\LambdaCs10.AssemblyInfo.cs
+D:\Dev\BACKEND\C#\LambdaCs10\LambdaCs10\obj\Debug\net6.0\LambdaCs10.csproj.CoreCompileInputs.cache
+D:\Dev\BACKEND\C#\LambdaCs10\LambdaCs10\obj\Debug\net6.0\LambdaCs10.dll
+D:\Dev\BACKEND\C#\LambdaCs10\LambdaCs10\obj\Debug\net6.0\refint\LambdaCs10.dll
+D:\Dev\BACKEND\C#\LambdaCs10\LambdaCs10\obj\Debug\net6.0\LambdaCs10.pdb
+D:\Dev\BACKEND\C#\LambdaCs10\LambdaCs10\obj\Debug\net6.0\LambdaCs10.genruntimeconfig.cache
+D:\Dev\BACKEND\C#\LambdaCs10\LambdaCs10\obj\Debug\net6.0\ref\LambdaCs10.dll
